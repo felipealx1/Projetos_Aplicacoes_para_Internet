@@ -1,7 +1,13 @@
 # Projetos_Aplicacoes_para_Internet
-## Desenvolvimento de um API Carápio Virtual com o BackEnd conectado com o FrontEnd
+## Desenvolvimento de um API Cardápio Virtual com o BackEnd conectado com o FrontEnd da disciplina de Aplicações pra Internet
+Grupo:
+José Felipe Alexandre Martins RGM:32079613<br>
+Nathan Tavares da Silva RGM:26008505<br>
+Luiz Felipe Fernandes de Paula RGM:31669735<br>
+Huggo Henrique Santos de Souza RGM:31654762<br>
+
 # Cardápio Virtual do Restaurante
-<b>Este projeto é um sistema fullstack para um restaurante, que permite aos clientes visualizar o cardápio virtualmente, enquanto aos administradores é permitido gerenciar os produtos do cardápio. O sistema é dividido em duas partes principais: o frontend para visualização do cardápio pelos clientes e o backend para gerenciamento dos produtos pelos administradores.</b>
+<b>Este projeto, da disciplina de Aplicações pra Internet, é um sistema fullstack para um restaurante, que permite aos clientes visualizar o cardápio virtualmente, enquanto aos administradores é permitido gerenciar os produtos do cardápio. O sistema é dividido em duas partes principais: o frontend para visualização do cardápio pelos clientes e o backend para gerenciamento dos produtos pelos administradores.</b>
 
 ## 🖥️​Funcionalidades
 <b>Clientes:</b><br>
@@ -22,7 +28,7 @@
   MySQL: Um sistema de gerenciamento de banco de dados relacional de código aberto.
 ## ⚙️​Instalação e Execução
 <b>Clone o repositório:</b><br>
- -> git clone https://github.com/seu-usuario/nome-do-repositorio.git<br>
+ -> git clone https://https:github.com/felipealx1/Projetos_Aplicacoes_para_Internet<br>
  -> cd nome-do-repositorio<br>
 <b>Configuração do Backend:</b><br>
   -> Importe o projeto Java Spring Boot em sua IDE preferida.<br>
