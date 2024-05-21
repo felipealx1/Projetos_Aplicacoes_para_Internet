@@ -1,2 +1,9 @@
-# Projeto_Final_Minsait_Front_BackEnd
-O repositório criado tem por finalidade a criação de uma API Produtos utilizando a Linguagem Java e com o framework Spring Boot.
+# Backend da API Produtos
+## Tecnologias usadas:
+<ul>
+  <li>Java</li>
+</ul>
+### Framework usado:
+<ul>
+  <li>Spring Boot</li>
+</ul>
